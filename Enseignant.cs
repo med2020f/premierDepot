@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enseignant_test
+namespace Enseignant_test_test
 {
     public abstract class Enseignant
     {
